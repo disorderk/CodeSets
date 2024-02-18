@@ -1,8 +1,8 @@
 name: py脚本运行
 
-on: 
-  schedule:
-  - cron : "00 22,2,8,16 * * *"
+on:
+#  schedule:
+#  - cron : "00 22,2,8,16 * * *"
   workflow_dispatch:
 
 permissions:
