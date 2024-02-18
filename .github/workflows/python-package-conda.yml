@@ -1,4 +1,4 @@
-name: 脚本运行
+name: py脚本运行
 
 on: 
   schedule:
@@ -25,7 +25,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: MT签到
       run: |
-        python Pyscripts/my.py
+        python Pyscripts/mt.py
       env:
         MTUSERNAME: ${{  secrets.MTUSERNAME  }}
         MTPASSWD: ${{  secrets.MTPASSWD  }}
