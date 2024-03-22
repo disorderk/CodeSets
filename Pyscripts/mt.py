@@ -23,8 +23,6 @@ feishuwebhook = os.getenv("FSWEBHOOK")
 mtusername = os.getenv("MTUSERNAME")
 mtpasswd = os.getenv("MTPASSWD")
 
-
-
 # 设置ua
 ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'
 session = requests.session()
@@ -102,7 +100,7 @@ def huoqu(formhash):
     # msg = {"msgtype": "text", "text": {"content": successText}}
     # webhook = requests.post(
     #     url=dingdingwebhook, headers=whHeader, json=msg)
-    # print(webhook)
+    print(webhook)
 
 
 if __name__ == '__main__':
