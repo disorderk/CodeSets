@@ -1,0 +1,249 @@
+鍛ㄤ簲 2024/03/22 22:57:29.57 
+ Volume in drive K is 鑿滈笩蹇�掞紝鎯冲瘎灏卞瘎
+ Volume Serial Number is B643-295C
+
+ Directory of K:\K\LABORATORY\selfStudy\ScriptsCodeSets\BatsOrPs1
+
+2024/03/22  22:57    <DIR>          .
+2024/03/22  22:57    <DIR>          ..
+2024/03/22  22:57                32 log.txt
+2024/03/22  22:57               331 logTEST.bat
+               2 File(s)            363 bytes
+               2 Dir(s)  23,558,840,320 bytes free
+鍛ㄤ簲 2024/03/22 22:57:29.57 
+
+Windows IP Configuration
+
+
+Unknown adapter 本地连接:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Radmin VPN:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : fdfd::1af8:e86d
+   Link-local IPv6 Address . . . . . : fe80::7861:b3d6:dafe:9d8d%20
+   IPv4 Address. . . . . . . . . . . : 26.248.232.109
+   Subnet Mask . . . . . . . . . . . : 255.0.0.0
+   Default Gateway . . . . . . . . . : 26.0.0.1
+
+Unknown adapter aioCloud:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter 以太网:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.31.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.31.1
+
+Wireless LAN adapter WLAN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter 本地连接* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter 本地连接* 10:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.137.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter 以太网 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.116.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.136.10
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.136.2
+鍛ㄤ簲 2024/03/22 22:57:29.63 
+Hello World 
+鍛ㄤ簲 2024/03/22 22:57:29.63 
+鍛ㄥ叚 2024/03/23  1:32:54.35 
+ Volume in drive K is 鑿滈笩蹇�掞紝鎯冲瘎灏卞瘎
+ Volume Serial Number is B643-295C
+
+ Directory of K:\K\LABORATORY\selfStudy\ScriptsCodeSets\BatsOrPs1
+
+2024/03/23  00:38    <DIR>          .
+2024/03/23  00:38    <DIR>          ..
+2024/03/23  00:04             1,248 filesClassifyScript0.1ver.bat
+2024/03/23  00:35             1,658 filesClassifyScript0.2ver.bat
+2024/03/23  01:32             2,615 log.txt
+2024/03/22  22:57               331 logTEST.bat
+2024/03/23  01:31    <DIR>          testingdirs
+               4 File(s)          5,852 bytes
+               3 Dir(s)  23,554,768,896 bytes free
+鍛ㄥ叚 2024/03/23  1:32:54.36 
+
+Windows IP Configuration
+
+
+Unknown adapter 本地连接:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Radmin VPN:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : fdfd::1af8:e86d
+   Link-local IPv6 Address . . . . . : fe80::7861:b3d6:dafe:9d8d%20
+   IPv4 Address. . . . . . . . . . . : 26.248.232.109
+   Subnet Mask . . . . . . . . . . . : 255.0.0.0
+   Default Gateway . . . . . . . . . : 26.0.0.1
+
+Unknown adapter aioCloud:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter 以太网:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.31.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.31.1
+
+Wireless LAN adapter WLAN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter 本地连接* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter 本地连接* 10:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.137.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter 以太网 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.116.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.136.10
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.136.2
+鍛ㄥ叚 2024/03/23  1:32:54.56 
+Hello World 
+鍛ㄥ叚 2024/03/23  1:32:54.56 
+鍛ㄥ叚 2024/03/23  1:33:05.88 
+ Volume in drive K is 鑿滈笩蹇�掞紝鎯冲瘎灏卞瘎
+ Volume Serial Number is B643-295C
+
+ Directory of K:\K\LABORATORY\selfStudy\ScriptsCodeSets\BatsOrPs1
+
+2024/03/23  01:33    <DIR>          .
+2024/03/23  01:33    <DIR>          ..
+2024/03/23  00:04             1,248 filesClassifyScript0.1ver.bat
+2024/03/23  00:35             1,658 filesClassifyScript0.2ver.bat
+2024/03/23  01:33             5,381 log.txt
+2024/03/23  01:33               326 logTEST.bat
+2024/03/23  01:31    <DIR>          testingdirs
+               4 File(s)          8,613 bytes
+               3 Dir(s)  23,554,760,704 bytes free
+鍛ㄥ叚 2024/03/23  1:33:05.88 
+
+Windows IP Configuration
+
+
+Unknown adapter 本地连接:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Radmin VPN:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : fdfd::1af8:e86d
+   Link-local IPv6 Address . . . . . : fe80::7861:b3d6:dafe:9d8d%20
+   IPv4 Address. . . . . . . . . . . : 26.248.232.109
+   Subnet Mask . . . . . . . . . . . : 255.0.0.0
+   Default Gateway . . . . . . . . . : 26.0.0.1
+
+Unknown adapter aioCloud:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter 以太网:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.31.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.31.1
+
+Wireless LAN adapter WLAN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter 本地连接* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter 本地连接* 10:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.137.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter 以太网 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.116.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.136.10
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.136.2
+鍛ㄥ叚 2024/03/23  1:33:05.92 
+Hello World 
+鍛ㄥ叚 2024/03/23  1:33:05.92 
